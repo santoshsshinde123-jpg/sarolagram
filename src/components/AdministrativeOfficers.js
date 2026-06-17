@@ -7,7 +7,7 @@ const officers = [
     designation: "मुख्य कार्यकारी अधिकारी (CEO)",
     phone: "8830223649",
     email: "ceo@gp.in",
-    image: "/Images/ceo.jpg",
+    image: "/Images/CEO.jpg",
   },
   {
     name: "दादाभाऊ गुंजाळ",
