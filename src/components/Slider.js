@@ -39,7 +39,7 @@ export default function Slider() {
   return (
     <div className="relative h-125 overflow-hidden">
       {/* Image */}
-      <Image
+      <img
         src={slides[current].image}
         alt={slides[current].title}
         className="w-full h-full object-cover"
