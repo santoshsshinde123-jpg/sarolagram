@@ -369,7 +369,7 @@ export default function DevelopmentWorksPage() {
             <table className="w-full">
 
               <thead>
-                <tr className="bg-gray-500 text-white">
+                <tr className="bg-gray-500 text-black">
 
                   <th className="p-4 text-left">अ.क्र.</th>
                   <th className="p-4 text-left">योजनेचे नाव/</th>
