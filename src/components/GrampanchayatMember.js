@@ -14,7 +14,7 @@ const officers = [
     designation: "उपसरपंच",
     phone: "9657633296",
     email: "upsarpanch@gp.in",
-    image: "/Images/upsarpanch.jpeg",
+    image: "/Images/Upsarpanch.jpeg",
   },
   {
     name: "श्री. स्वप्नील सखाराम आंबेटकर",
