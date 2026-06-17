@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const slides = [
@@ -38,7 +39,7 @@ export default function Slider() {
   return (
     <div className="relative h-125 overflow-hidden">
       {/* Image */}
-      <img
+      <Image
         src={slides[current].image}
         alt={slides[current].title}
         className="w-full h-full object-cover"
