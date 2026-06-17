@@ -9,7 +9,7 @@ const [selectedImage, setSelectedImage] = useState(null);
 const images = [
 "/Images/img1.jpg",
 "/Images/img2.jpg",
-"/Images/img3.jpg",
+"/Images/award3.jpg",
 "/Images/img4.jpg",
 ];
 
