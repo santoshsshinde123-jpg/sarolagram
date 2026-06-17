@@ -28,7 +28,7 @@ const officers = [
     designation: "गटविकास अधिकारी (BDO)",
     phone: "9876543211",
     email: "bdo@gp.in",
-    image: "/Images/bdo.jpg",
+    image: "/Images/BDO.jpg",
   },
   {
     name: "श्री. स्वप्नील सखाराम आंबेटकर",
