@@ -4,22 +4,22 @@ import { useEffect, useState } from "react";
 
 const slides = [
   {
-    image: "/images/img1.jpg",
+    image: "/Images/img1.jpg",
     title: "ग्रामपंचायत सारोळा  सोमवंशी",
     description: "पारदर्शक प्रशासन, सक्षम गाव – आपल्या सेवेत",
   },
   {
-    image: "/images/img2.jpg",
+    image: "/Images/img2.jpg",
     title: "स्वच्छ आणि सुंदर गाव",
     description: "विकासाच्या दिशेने वाटचाल",
   },
   {
-    image: "/images/img6.jpg",
+    image: "/Images/img6.jpg",
     title: "डिजिटल ग्रामपंचायत",
     description: "मुख्यमंत्री समृद्ध पंचयातराज अभियान कामाचा आढावा घेताना श्रीगोंदा BDO मॅडम",
   },
   {
-    image: "/images/img5.jpg",
+    image: "/Images/img5.jpg",
     title: "डिजिटल ग्रामपंचायत",
     description: "जिल्हा स्तरीय मूल्यमापन प्रसंगी सांगली जिल्हा परिषद सीईओ पाहणी करताना",
   },
