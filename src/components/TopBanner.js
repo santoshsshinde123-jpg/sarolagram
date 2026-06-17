@@ -5,7 +5,7 @@ export default function TopBanner() {
 
         {/* Left Section */}
         <div className="flex items-center gap-4">
-          <img src="/images/emblem.jpg"
+          <img src="/Images/emblem.jpg"
             alt="National Emblem"
             className="w-20 h-auto"
           />
