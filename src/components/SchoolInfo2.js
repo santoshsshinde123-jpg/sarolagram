@@ -13,7 +13,7 @@ export default function SchoolInfo2() {
     {/* School Image */}
     <div className="overflow-hidden rounded-3xl shadow-2xl group">
       <img
-        src="../Images/school2.jpg"
+        src="../Images/School2.jpg"
         alt="जि. प. प्राथमिक शाळा(आढाव वस्ती )"
        className="w-full h-auto object-contain"
       />
