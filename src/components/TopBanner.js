@@ -33,7 +33,7 @@ export default function TopBanner() {
     href="/newschemes"
     className="
       group
-      bg-gradient-to-br
+      bg-linear-to-br
       from-green-500
       to-emerald-600
       text-white
@@ -45,7 +45,7 @@ export default function TopBanner() {
       transition-all
       duration-300
       text-center
-      min-w-[100px]
+      min-w-25
     "
   >
     <div className="text-3xl group-hover:animate-bounce">
@@ -60,7 +60,7 @@ export default function TopBanner() {
     href="/notices"
     className="
       group
-      bg-gradient-to-br
+      bg-linear-to-br
       from-orange-500
       to-red-600
       text-white
@@ -72,7 +72,7 @@ export default function TopBanner() {
       transition-all
       duration-300
       text-center
-      min-w-[100px]
+      min-w-25
     "
   >
     <div className="text-3xl group-hover:animate-bounce">
@@ -87,7 +87,7 @@ export default function TopBanner() {
     href="/awards"
     className="
       group
-      bg-gradient-to-br
+      bg-linear-to-br
       from-yellow-400
       to-amber-500
       text-white
@@ -99,7 +99,7 @@ export default function TopBanner() {
       transition-all
       duration-300
       text-center
-      min-w-[100px]
+      min-w-25
     "
   >
     <div className="text-3xl group-hover:animate-bounce">
@@ -114,7 +114,7 @@ export default function TopBanner() {
     href="/contact"
     className="
       group
-      bg-gradient-to-br
+      bg-linear-to-br
       from-sky-400
       to-indigo-500
       text-white
@@ -126,7 +126,7 @@ export default function TopBanner() {
       transition-all
       duration-300
       text-center
-      min-w-[100px]
+      min-w-25
     "
   >
     <div className="text-3xl group-hover:animate-bounce">
@@ -136,6 +136,34 @@ export default function TopBanner() {
       संपर्क
     </p>
   </a>
+
+  <a
+    href="/admin"
+    className="
+      group
+      bg-linear-to-br
+      from-sky-400
+      to-indigo-500
+      text-white
+      rounded-2xl
+      px-4
+      py-4
+      shadow-lg
+      hover:scale-105
+      transition-all
+      duration-300
+      text-center
+      min-w-25
+    "
+  >
+    <div className="text-3xl group-hover:animate-bounce">
+       🔐
+    </div>
+    <p className="mt-2 text-sm font-semibold">
+      Admin Login
+    </p>
+  </a>
+ 
 </div>
       </div>
     </div>
